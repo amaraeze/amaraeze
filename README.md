@@ -17,4 +17,6 @@ Microsoft PowerBI ||
 Python ||
 SQL ||
 Microsoft Excel ||
-Tableau ||
+Tableau 
+
+## Connect with me on [LinkedIn](www.linkedin.com/in/amarachukwu-eze)
