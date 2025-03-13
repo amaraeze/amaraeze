@@ -19,4 +19,4 @@ SQL ||
 Microsoft Excel ||
 Tableau 
 
-## Connect with me on [LinkedIn](www.linkedin.com/in/amarachukwu-eze)
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/amarachukwu-eze/)
