@@ -9,7 +9,7 @@ I am passionate about designing scalable data systems and engineering solutions 
 - 👯 I’m looking to collaborate on open-source or social impact projects in Data & AI
 - 💬 Ask me about: Data Engineering, Analytics, Mentorship
 - 📚 Author of A Journey to Tech (Amazon: https://amzn.eu/d/cAkPAu2)
-- 🚀 Founder of DataHER Africa – empowering women in Data & AI
+- 🚀 Founder of DataHER Africa – empowering women in Data & AI (dataherafrica.org)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Larkspurs—tall, vibrant, and full of energy—pretty much how I approach data and life!
 
